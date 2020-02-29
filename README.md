@@ -6,6 +6,11 @@
 <br/>
 
 
+<img src="https://emiia.github.io/1/emiia115.png" alt="Когнитивная радиооптика — ЭМИИА | EMIIA  — cognitive radio optics" title="ЭМИИА — когнитивная радиооптика | EMIIA  — cognitive radio optics"  border="-10" style="width:100%;">
+<br/>
+<br/>
+<br/>
+
 <img src="https://emiia.github.io/1/emiia102.png" alt="Когнитивная радиооптика — ЭМИИА | EMIIA  — cognitive radio optics" title="ЭМИИА — когнитивная радиооптика | EMIIA  — cognitive radio optics"  border="-10" style="width:100%;">
 <br/>
 <br/>
